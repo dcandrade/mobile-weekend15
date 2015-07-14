@@ -6112,7 +6112,7 @@ i {
     background-position: center center
 }
 #headerwrap {
-    background-color: #f1c40f;
+    background-color: #0f326c;
     margin-top: -20px;
     padding: 140px 0 25px
 }
@@ -6256,12 +6256,12 @@ i {
     text-align: right
 }
 .event-desc p {
-    color: #FFF;
+    color: #908d8d;
     font-weight: 500;
     font-size: 20px
 }
 .event-wrap {
-    background-color: #0f326c;
+    background-color: #f2f2f2;
     /*background-image: url('../..//assets/images/salvador-bg.jpg');*/
     background-position: 0 -341px;
     padding-bottom: 70px;
