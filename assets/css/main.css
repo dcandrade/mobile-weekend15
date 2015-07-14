@@ -6112,7 +6112,7 @@ i {
     background-position: center center
 }
 #headerwrap {
-    background-color: #0f326c;
+    background-color: #f2f2f2;
     margin-top: -20px;
     padding: 140px 0 25px
 }
@@ -6126,14 +6126,14 @@ i {
 }
 .headline {
     font-size: 30px;
-    color: #333;
+    color: #0f0f0f;
     font-weight: 500
 }
 .event-date {
     font-size: 36px;
     font-weight: bold;
     margin-top: 20px;
-    color: #444
+    color: #0f0f0f
 }
 .keynotes h2 {
     text-align: center
@@ -6256,12 +6256,12 @@ i {
     text-align: right
 }
 .event-desc p {
-    color: #908d8d;
+    color: white;
     font-weight: 500;
     font-size: 20px
 }
 .event-wrap {
-    background-color: #f2f2f2;
+    background-color: #0f326c;
     /*background-image: url('../..//assets/images/salvador-bg.jpg');*/
     background-position: 0 -341px;
     padding-bottom: 70px;
