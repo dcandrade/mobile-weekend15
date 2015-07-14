@@ -6070,7 +6070,7 @@ hr {
     content: '\e801'
 }
 .navbar-default {
-    background-color: #f1c40f;
+    background-color: rgba(210, 207, 207, 0.64);
     border-color: transparent
 }
 .navbar-default .navbar-nav {
