@@ -6167,16 +6167,16 @@ i {
     opacity: 1
 }
 .speaker-rounded.david {
-    background-image: url('../..//assets/images/david.jpg')
+    background-image: url('#')
 }
 .speaker-rounded.medina {
-    background-image: url('../..//assets/images/medina.jpg')
+    background-image: url('#');
 }
 .speaker-rounded.tupy {
-    background-image: url('../..//assets/images/tupy.jpg')
+    background-image: url('#')
 }
 .speaker-rounded.marcel {
-    background-image: url('../..//assets/images/marcel.jpg')
+    background-image: url('#')
 }
 .speaker-networks {
     width: 100%;
@@ -6247,7 +6247,7 @@ i {
 .sponsor-logo img {
     max-width: 100%
 }
-.jusbrasil-logo img,
+.ecompjr-logo img,
 .evolux-logo img {
     margin-top: 20px
 }
@@ -6443,4 +6443,8 @@ i {
 }
 #programacao{
 	background-color: #6EAA6F
+}
+p{
+    font-weight: 500;
+    text-shadow: whitesmoke;
 }
