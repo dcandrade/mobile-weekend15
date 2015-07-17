@@ -108,15 +108,15 @@ $(function() {
 
       var marker, position, mapRenderPosition, config, map, gMaps = g.maps;
 
-      position = new gMaps.LatLng(-12.878778, -38.460592);
-      mapRenderPosition = new gMaps.LatLng(-12.8791148, -38.4574931);
+      position = new gMaps.LatLng(-12.1988563,-38.9703989);
+      mapRenderPosition = new gMaps.LatLng(-12.1988619,-38.9683722);
 
       config = {
         center: mapRenderPosition,
         mapTypeControl: false,
         mapTypeId: gMaps.MapTypeId.ROADMAP,
         scrollwheel: false,
-        zoom: 16
+        zoom: 17
       };
 
       map = new gMaps.Map(d.getElementById("map-canvas"), config);
