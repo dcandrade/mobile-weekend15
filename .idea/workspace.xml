@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82b38685-5a6c-4bd8-9fc7-fadb33b1bcd5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/boulevard-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/casa-comercio.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/david.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/evolux.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon-bkp.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/globocom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo-bkp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo-small-bkp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/marcel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/matiz-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/matiz-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/medina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/mercure-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/mundo-plaza.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/novatec.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/py-zumbi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/salvador-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/setSize/MobilePlatforms.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/setSize/mobile-development-company1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/setSize/mobile21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/setSize/service_image_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/tulipinn-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/tulipinn-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/tupy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/webhotel-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/webhotel-logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mobile-weekend15.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4375">
-              <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.03125">
+              <caret line="324" column="32" selection-start-line="324" selection-start-column="32" selection-end-line="324" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -65,8 +38,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5588236">
-              <caret line="6171" column="23" selection-start-line="6171" selection-start-column="17" selection-end-line="6171" selection-end-column="23" />
+            <state vertical-scroll-proportion="-6.0882354">
+              <caret line="6247" column="9" selection-start-line="6247" selection-start-column="9" selection-end-line="6247" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -359,16 +332,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5588236">
-          <caret line="6171" column="23" selection-start-line="6171" selection-start-column="17" selection-end-line="6171" selection-end-column="23" />
+        <state vertical-scroll-proportion="-6.0882354">
+          <caret line="6247" column="9" selection-start-line="6247" selection-start-column="9" selection-end-line="6247" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4375">
-          <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.03125">
+          <caret line="324" column="32" selection-start-line="324" selection-start-column="32" selection-end-line="324" selection-end-column="32" />
           <folding />
         </state>
       </provider>
