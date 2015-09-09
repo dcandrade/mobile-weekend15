@@ -1434,10 +1434,11 @@ th {
     padding: 8px;
     line-height: 1.428571429;
     vertical-align: top;
-    border-top: 1px solid #ddd
+    //border-top: 1px solid #ddd
 }
 .table>thead>tr>th {
     vertical-align: bottom;
+    font-weight: bold;
     border-bottom: 2px solid #ddd
 }
 .table>caption+thead>tr:first-child>th,
@@ -5967,7 +5968,6 @@ td.visible-print {
 body {
     background-color: #f2f2f2;
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
     font-size: 16px;
     color: #555;
     -webkit-font-smoothing: antialiased;
@@ -6442,11 +6442,10 @@ i {
     font-weight: bold
 }
 .item-pendente {
-    color: #ffff64;
-    font-weight: bold
+    color: #d43f3a;
 }
 .item-fora-programacao{
-  font-weight: bold;
+  font-weight: 300;
   font-style: italic;
 }
 #programacao{
