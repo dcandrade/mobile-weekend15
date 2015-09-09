@@ -6441,6 +6441,14 @@ i {
     color: #3498db;
     font-weight: bold
 }
+.item-pendente {
+    color: #ffff64;
+    font-weight: bold
+}
+.item-fora-programacao{
+  font-weight: bold;
+  font-style: italic;
+}
 #programacao{
 	background-color: #6EAA6F
 }
