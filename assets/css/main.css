@@ -1480,7 +1480,7 @@ th {
 }
 .table-striped>tbody>tr:nth-child(odd)>td,
 .table-striped>tbody>tr:nth-child(odd)>th {
-    background-color: #95CD96
+    background-color: #D4ECD5
 }
 .table-hover>tbody>tr:hover>td,
 .table-hover>tbody>tr:hover>th {
@@ -1559,6 +1559,9 @@ table th[class*="col-"] {
 .table-hover>tbody>.warning:hover>td,
 .table-hover>tbody>.warning:hover>th {
     background-color: #faf2cc
+}
+table{
+  background-color: #F2F2F2
 }
 @media(max-width:767px) {
     .table-responsive {
@@ -6223,10 +6226,13 @@ i {
 }
 .sponsors-wrap {
     background-color: #fff;
-    padding: 30px 0 70px
+    padding: 30px 0 70px;
+    margin: auto;
 }
 .sponsors-list {
-    margin-top: 20px
+    margin-top: 20px;
+    margin: auto;
+    text-align: center;
 }
 .available-sponsor {
     border: 2px dashed #EEE;
@@ -6421,7 +6427,7 @@ i {
 .daily-schedule {
     margin-top: 30px
 }
-.daily-schedule thead {
+.daily-schedule thead{
     background: #376938;
     color: #FFF
 }
@@ -6454,4 +6460,10 @@ i {
 p{
     font-weight: 500;
     text-shadow: whitesmoke;
+}
+.thread2-head{
+  background-color: #53c555
+}
+.thread1-head{
+  background-color: #8ebd8f
 }
